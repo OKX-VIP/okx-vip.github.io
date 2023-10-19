@@ -1,5 +1,3 @@
-User-agent: *
-Disallow: /register
 User-agent: Baiduspider
 Disallow: /
 User-agent: Sosospider
